@@ -17,8 +17,8 @@ The terminal, with its retro charm, can transport you to a bygone era of computi
 </div>
 
 
-### ASCII Art Magic
-Why not add a touch of personality to your terminal with ASCII art? Whether it's a simple logo or a playful character, ASCII art can transform your terminal start-up into a delightful experience. Get creative and let your imagination run wild.
+### Adding Personality to Your Terminal
+Give your terminal a personal touch by adding a bit of personality! Whether it's a simple design or a playful character, adding a touch of uniqueness can make your terminal start-up more enjoyable. Get creative and let your imagination run free!
 
 ### Fonts for Flair
 The choice of font can make a world of difference. Opt for a monospaced font that harks back to the golden age of computing. Fonts like Courier or those with a pixelated aesthetic can add flair to your terminal's character.
