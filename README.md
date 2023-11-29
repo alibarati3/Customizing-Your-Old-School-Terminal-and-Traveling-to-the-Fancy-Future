@@ -13,7 +13,7 @@ The terminal, with its retro charm, can transport you to a bygone era of computi
 ### A Palette of Possibilities
 **Let's talk color !** Old-school terminals were known for their distinctive color schemes. Greens, blues, and ambers ruled the screen. Experiment with these classic hues or give them a modern twist. The right color palette can evoke the perfect blend of vintage and contemporary vibes.
 <div style="text-align:center">
-  <img src="image-1.png" alt="Alt Text" width="1150" height="550"/>
+  <img src="google.png" alt="Alt Text" width="1150" height="600"/>
 </div>
 
 
@@ -32,7 +32,7 @@ Want to set a specific mood? Customize your terminal background with an image or
 Take it a step further by defining fancy objects for your terminal. Define unique **symbols** or **icons** that represent different directories or file types. Adding this personalized touch makes your terminal not only functional but also a true reflection of your style.
 
 <div style="text-align:center">
-  <img src="Screenshot 2023-11-28 192246-1.png" alt="Alt Text" width="1150" height="600" />
+  <img src="Screenshot 2023-11-28 192246-1.png" alt="Alt Text" width="1150" height="550" />
 </div>
 
 <!-- ![Alt text](<Screenshot 2023-11-28 192246-1.png>) -->
