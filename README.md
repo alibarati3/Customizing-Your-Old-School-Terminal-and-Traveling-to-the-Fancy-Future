@@ -44,7 +44,7 @@ Have you stumbled upon a configuration that you find particularly cool? Share it
 ### Conclusion: Your Terminal, Your Style
 In conclusion, don't let an uninspiring terminal hold you back. With a few tweaks and a touch of creativity, you can turn it into a space that reflects your style and beckons you to explore the command line with enthusiasm. So, are you ready to embark on this journey to a fancier terminal future? Let the customization begin!
 
-### Fonts:
+## Fonts:
 1. Download the Fira Code fonts from the following link: [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/FiraCode.zip)
 2. Open the "FiraCode" folder.
 3. Select all and Install.
@@ -52,18 +52,18 @@ In conclusion, don't let an uninspiring terminal hold you back. With a few tweak
 5. Right-click in the window.
 6. Settings > Defaults > Set font to "FiraCode Nerd Font."
 
-### Background Image:
+## Background Image:
 
 1. Open PowerShell.
 2. Right-click in the window.
 3. Settings > Defaults > Background Image > Paste the path of the desired image.
 
-### Oh My Posh:
+## Oh My Posh:
 <div style="text-align:center">
   <img src="logo-1.png" alt="Alt Text" width="350"/>
 </div>
 
-1. Ensure that "winget" is installed. (If not, download directly from the Microsoft Store [App Installer]).
+1. Ensure that "winget" is installed. (If not, download directly from the [Microsoft Store]([pathname://ms-windows-store://pdp/?productid=XP8K0HKJFRXGCK) ).
 2. Open a PowerShell prompt and run the following command: 
 
 
@@ -75,7 +75,8 @@ This installs a couple of things:
 
 >oh-my-posh.exe - Windows executable
 
->themes - The latest Oh My Posh themes
+>themes - The latest Oh My Posh [themes](https://ohmyposh.dev/docs/themes)
+
 
 For the PATH to be reloaded, a restart of your terminal is advised.
 
@@ -110,3 +111,12 @@ Notepad $PROFILE
 >Congratulations on taking the first steps toward transforming your terminal into a personalized, stylish hub of productivity! By embracing nostalgia, playing with colors and fine-tuning fonts and functionality, you've breathed new life into the PowerShell.
 Customization isn't just about looks; it's about creating an environment that boosts your workflow. Your terminal is now an extension of your personality.
 Share your cool configurations with the community and be open to ideas. Your terminal is a space for exploration and creativity. Ready to let it reflect your style and enthusiasm for the PowerShell? Let the customization begin! 🚀✨
+
+<br>
+
+- For more information, visit the [official website](https://ohmyposh.dev/).
+
+- You can also check out this [tutorial](https://youtu.be/-G6GbXGo4wo?si=NwK7zz9KlwG5q5Uy) on YouTube if you need further assistance
+
+
+
